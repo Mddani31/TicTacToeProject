@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Factorial/v16
+/Factorial/.vs/Factorial/v16
+/Factorial/bin/Debug
+/Factorial/Factorial/bin/Debug
+/Factorial/Factorial/obj/Debug
+/Factorial/obj/Debug
